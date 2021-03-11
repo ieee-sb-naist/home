@@ -13,7 +13,7 @@ people:
   pic: 1
   position: President
   social:
-    
+
 
 - name: Mutinda Faith Wavinya
   pic: 2
@@ -41,19 +41,23 @@ people:
   pic: 3
   position: Treasurer
   social:
+    - title: personal
+      url: https://maburto00.github.io/
+    - title: linkedin
+      url: https://www.linkedin.com/in/mario-eduardo-aburto-guti%C3%A9rrez-19b233129/
+    - title: github
+      url: https://github.com/maburto00
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/MarioAburto1
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/NaistSb
   - title: facebook
     url: https://www.facebook.com/IEEE-NAIST-Student-Branch-101517378336895
+  - title: twitter
+    url: https://twitter.com/NaistSb
+  - title: instagram
+    url: https://www.instagram.com/ieee_sb_naist/
 
 # Postal address (add as many lines as necessary)
 address:
