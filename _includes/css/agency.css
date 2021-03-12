@@ -74,7 +74,7 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #fff;
+    color: #007377;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -120,14 +120,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #{{ site.data.template.color.primary }};
+    border-color: #00629B;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #00629B;
 }
 
 .btn-xl:hover,
@@ -173,18 +173,20 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    font-family: "Helvetica Neue",Helvetica,Arial,cursive;
+    font-weight: 700;
+    color: #00629B;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #00629B;
 }
 
 .navbar-default .navbar-collapse {
@@ -192,7 +194,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
+    border-color: #00629B;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -208,9 +210,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
+    font-weight: bold;
     letter-spacing: 1px;
-    color: #fff;
+    color: #75787B;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -219,19 +221,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.data.template.color.primary }};
+    color: #00629B;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #00629B;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #00629B;
 }
 
 @media(min-width:768px) {
@@ -296,7 +298,7 @@ header .intro-text .intro-heading {
     /* text-transform: uppercase; */
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 50px;
 }
 
@@ -319,7 +321,7 @@ header .intro-text .intro-heading {
         /* text-transform: uppercase; */
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
-        font-weight: 700;
+        font-weight: 400;
         line-height: 75px;
     }
 }
