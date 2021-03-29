@@ -13,11 +13,11 @@ people:
   pic: 1
   position: President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
+      url: #
+    - title: github
+      url: #
+    - title: twitter
       url: #
 
 
@@ -25,12 +25,10 @@ people:
   pic: 2
   position: Vice President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/faith-wavinya-520a3993/
+    - title: github
+      url: https://github.com/faith-wm
 
 - name: Riza Rae Pineda
   pic: 3
@@ -44,17 +42,17 @@ people:
       url: https://www.instagram.com/rizarae/
 
 - name: Mario Aburto
-  pic: 3
+  pic: 4
   position: Treasurer
   social:
-    - title: personal
-      url: https://maburto00.github.io/
     - title: linkedin
       url: https://www.linkedin.com/in/mario-eduardo-aburto-guti%C3%A9rrez-19b233129/
     - title: github
       url: https://github.com/maburto00
     - title: twitter
       url: https://twitter.com/MarioAburto1
+    - title: globe
+      url: https://maburto00.github.io/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
