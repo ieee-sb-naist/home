@@ -9,28 +9,43 @@ description: "Official Website of the IEEE NAIST Student Branch"
 
 # Team names, titles and social links
 people:
-- name: Niu Zhaofeng
-  pic: 1
-  position: President
+- name: Mario Aburto
+  pic: mario_new
+  position: Chair
   social:
-    - title: facebook
-      url: https://www.facebook.com/sara.new.56614
+    - title: linkedin
+      url: https://www.linkedin.com/in/mario-eduardo-aburto-guti%C3%A9rrez-19b233129/
+    - title: github
+      url: https://github.com/maburto00
     - title: globe
-      url: https://www.sara.one
+      url: https://maburto00.github.io/
 
-
+- name: Olufemi Abraham
+  pic: olufemi
+  position: Vice Chair
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
+  
 - name: Mutinda Faith Wavinya
-  pic: 2
-  position: Vice President
+  pic: faith_new
+  position: Treasurer
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/faith-wavinya-520a3993/
     - title: github
       url: https://github.com/faith-wm
 
-- name: Riza Rae Pineda
-  pic: 3
+- name: Andres Gomez
+  pic: andres
   position: Secretary
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/andresrobertogomez/
+
+- name: Riza Rae Pineda
+  pic: rae_new
+  position: Member
   social:
     - title: linkedin
       url: https://ph.linkedin.com/in/riza-rae-pineda-b3671263
@@ -39,18 +54,14 @@ people:
     - title: instagram
       url: https://www.instagram.com/rizarae/
 
-- name: Mario Aburto
-  pic: 4
-  position: Treasurer
+- name: Niu Zhaofeng
+  pic: niu
+  position: Member
   social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/mario-eduardo-aburto-guti%C3%A9rrez-19b233129/
-    - title: github
-      url: https://github.com/maburto00
-    - title: twitter
-      url: https://twitter.com/MarioAburto1
+    - title: facebook
+      url: https://www.facebook.com/sara.new.56614
     - title: globe
-      url: https://maburto00.github.io/
+      url: https://www.sara.one
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
