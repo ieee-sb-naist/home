@@ -1,5 +1,5 @@
-url: https://ieee-sb-naist.github.io/
-baseurl: 
+url: "https://ieee-sb-naist.github.io/"
+baseurl: ""
 
 # Site settings
 title: IEEE SB NAIST
