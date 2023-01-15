@@ -3,6 +3,11 @@ Agency Jekyll theme
 
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
+
+# Run locally
+
+`bundle exec jekyll serve --livereload`
+
 # How to use
 
 ###Events 

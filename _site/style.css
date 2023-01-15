@@ -289,7 +289,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/ieee-sb-naist/img/header-bg.jpg');
+    background-image: url('/img/header-bg.jpg');
     background-position: center center;
     background-position: 0%;
     background-repeat: none;
@@ -679,7 +679,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/ieee-sb-naist/img/map-image.png');
+    background-image: url('/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
