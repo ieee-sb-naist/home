@@ -9,9 +9,35 @@ description: "Official Website of the IEEE NAIST Student Branch"
 
 # Team names, titles and social links
 people:
+- name: Olufemi Abraham
+  pic: olufemi
+  position: Chair
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
+  
+- name: Thuwiba Ibrahim
+  position: Vice Chair
+
+- name: Sergio De Leon Aguilar
+  position: Secretary
+
+- name: Yohanssen Pratama
+  position: Treasurer
+
+- name: Kang Xingyuan
+  position: Webmaster
+  
+- name: Andres Gomez
+  pic: andres
+  position: Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/andresrobertogomez/
+
 - name: Mario Aburto
   pic: mario_new
-  position: 2022 Chair
+  position: Member
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/mario-eduardo-aburto-guti%C3%A9rrez-19b233129/
@@ -20,46 +46,6 @@ people:
     - title: globe
       url: https://maburto00.github.io/
 
-- name: Olufemi Abraham
-  pic: olufemi
-  position: 2022 Vice Chair/2023 Chair
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
-  
-- name: Mutinda Faith Wavinya
-  pic: faith_new
-  position: 2022 Treasurer
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/faith-wavinya-520a3993/
-    - title: github
-      url: https://github.com/faith-wm
-
-- name: Andres Gomez
-  pic: andres
-  position: 2022 Secretary
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/andresrobertogomez/
-
-- name: Riza Rae Pineda
-  pic: rae_new
-  position: 2022 Webmaster
-  social:
-    - title: linkedin
-      url: https://ph.linkedin.com/in/riza-rae-pineda-b3671263
-    - title: github
-      url: https://github.com/rizarae-p
-
-- name: Niu Zhaofeng
-  pic: niu
-  position: 2022 Member/2021 Chair
-  social:
-    - title: facebook
-      url: https://www.facebook.com/sara.new.56614
-    - title: globe
-      url: https://www.sara.one
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
