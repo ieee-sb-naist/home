@@ -9,7 +9,7 @@ description: "Official Website of the IEEE NAIST Student Branch"
 
 # Team names, titles and social links
 people:
-- name: Mario Aburto G
+- name: Mario Aburto
   pic: mario_new
   position: 2022 Chair
   social:
@@ -24,8 +24,8 @@ people:
   pic: olufemi
   position: 2022 Vice Chair/2023 Chair
   social:
-    - title: globe
-      url: https://www.researchgate.net/profile/Olufemi-Abraham-2
+    - title: linkedin
+      url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
   
 - name: Mutinda Faith Wavinya
   pic: faith_new
