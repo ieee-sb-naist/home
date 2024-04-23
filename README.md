@@ -33,17 +33,17 @@ Then reinstall dependencies
 
 # How to use
 
-###Events 
+### Events
 
 Events projects are in '/_posts'
 
 Images are in '/img/events'
 
-###About
+### About
 
 Images are in '/img/about/'
 
-###Team
+### Team
 
 Team members and info are in '_config.yml'
 
