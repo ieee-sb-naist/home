@@ -47,25 +47,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
 
-- name: Andres Gomez
-  pic: andres
-  position: Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/andresrobertogomez/
-
-- name: Mario Aburto
-  pic: mario_new
-  position: Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/mario-eduardo-aburto-guti%C3%A9rrez-19b233129/
-    - title: github
-      url: https://github.com/maburto00
-    - title: globe
-      url: https://maburto00.github.io/
-
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
