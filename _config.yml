@@ -9,29 +9,44 @@ description: "Official Website of the IEEE NAIST Student Branch"
 
 # Team names, titles and social links
 people:
-- name: Olufemi Abraham
-  pic: olufemi
+- name: Yohanssen Pratama
+  pic: yohanssen-p
   position: Chair
+
+- name: Ndalama Festus Edward
+  pic: ndalama-f-e
+  position: Vice Chair
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
-  
-- name: Thuwiba Ibrahim
-  pic: ieee-sb-naist
-  position: Vice Chair
+      url: https://www.linkedin.com/in/festus-ndalama-50896356/
 
-- name: Sergio De Leon Aguilar
-  pic: ieee-sb-naist
+- name: Indira Febriyanti
+  pic: indira-f
   position: Secretary
+  social:
+    - title: github
+      url: https://github.com/Indirafyn/
 
-- name: Yohanssen Pratama
+- name: Valerie Megan
   pic: ieee-sb-naist
   position: Treasurer
 
-- name: Kang Xingyuan
-  pic: ieee-sb-naist
+- name: Sergio De Leon
+  pic: sergio-dl
   position: Webmaster
-  
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sergio-de-leon-2011/
+    - title: github
+      url: https://github.com/sergiodltech/
+
+- name: Olufemi Abraham
+  pic: olufemi
+  position: Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/olufemi-abraham-86b0b433/
+
 - name: Andres Gomez
   pic: andres
   position: Member
