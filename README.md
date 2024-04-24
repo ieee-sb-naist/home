@@ -70,6 +70,8 @@ You can modify the different sections of the website in the html templates found
 
 They use a scripting language called 'Liquid'. You can learn the basics at their [official documentation](https://shopify.github.io/liquid/basics/introduction/) and the particular feature enhancements at [Jekyll's official documentation](https://jekyllrb.com/docs/liquid/).
 
+You can see an example of a html template modification [in this commit](https://github.com/ieee-sb-naist/ieee-sb-naist.github.io/commit/a10a3550b386e859246d07723a84b1c7a84a2cec).
+
 # Demo
 
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
